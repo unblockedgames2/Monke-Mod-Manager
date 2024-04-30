@@ -107,11 +107,11 @@
   },
   {
     "name": "Utilla",
-    "author": "bobbievr",
+    "author": "iiDk",
     "version": "1.6.13",
-    "git_path": "legoandmars/Utilla",
+    "git_path": "unblockedgames2/Modded-Utilla",
     "group": "Core",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.13/Utilla.zip"
+    "download_url": "https://github.com/unblockedgames2/Modded-Utilla/releases/download/1.0.0/Utilla.zip"
   },
   {
     "name": "bHaptics",
