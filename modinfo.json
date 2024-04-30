@@ -34,6 +34,17 @@
     "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/3.4.2/iis_Stupid_Menu.dll"
   },
   {
+    "name": "Aspect's Cheat Panel",
+    "author": "Aspect",
+    "version": "6.2.3",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "AspectGTAG/Aspect-Cheat-Panel",
+    "group": "Mod Menus",
+    "download_url": "https://github.com/AspectGTAG/Aspect-Cheat-Panel/releases/download/v6.2.3/AspectCheatPanelV6.2.3.dll"
+  },
+  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.22",
