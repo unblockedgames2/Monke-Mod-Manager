@@ -23,6 +23,17 @@
     "download_url": "https://github.com/KyleTheScientist/Bark/releases/download/v1.5.1/Bark-1.5.1.dll"
   },
   {
+    "name": "ii's Stupid Menu",
+    "author": "iiDk",
+    "version": "3.4.2",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "iiDk-the-actual/iis.Stupid.Menu",
+    "group": "Mod Menus",
+    "download_url": "https://github.com/iiDk-the-actual/iis.Stupid.Menu/releases/download/3.4.2/iis_Stupid_Menu.dll"
+  },
+  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.22",
