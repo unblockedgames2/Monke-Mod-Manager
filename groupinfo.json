@@ -1,1 +1,26 @@
-
+[
+  {
+    "name" : "Core",
+    "rank" : 0
+  },
+  {
+    "name" : "Cosmetic",
+    "rank" : 1
+  },
+  {
+    "name" : "Mod Menus",
+    "rank" : 2
+  },
+  {
+    "name" : "Gameplay",
+    "rank" : 3
+  },
+  {
+    "name" : "Tweaks / Tools",
+    "rank" : 4
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 5
+  }
+]
