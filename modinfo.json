@@ -45,6 +45,17 @@
     "download_url": "https://github.com/AspectGTAG/Aspect-Cheat-Panel/releases/download/v6.2.3/AspectCheatPanelV6.2.3.dll"
   },
   {
+    "name": "Rift Menu",
+    "author": "f3",
+    "version": "7.1",
+    "dependencies": [
+      "Utilla"
+    ],
+    "git_path": "Fevps/HoldR",
+    "group": "Mod Menus",
+    "download_url": "https://github.com/AspectGTAG/Aspect-Cheat-Panel/releases/download/v6.2.3/AspectCheatPanelV6.2.3.dll"
+  },
+  {
     "name": "BepInEx",
     "author": "BepInEx Team",
     "version": "5.4.22",
