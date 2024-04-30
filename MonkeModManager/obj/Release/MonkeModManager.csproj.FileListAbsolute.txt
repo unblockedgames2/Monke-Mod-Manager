@@ -1,0 +1,11 @@
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.csproj.AssemblyReference.cache
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\bin\Release\MonkeModManager.exe.config
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\bin\Release\MonkeModManager.exe
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\bin\Release\MonkeModManager.pdb
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.FormMain.resources
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.FormSelectPlatform.resources
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.Properties.Resources.resources
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.csproj.GenerateResource.cache
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.csproj.CoreCompileInputs.cache
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.exe
+D:\Coding\C#\Monke Mod Manager\MonkeModManager\obj\Release\MonkeModManager.pdb
